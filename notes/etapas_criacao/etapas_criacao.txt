@@ -1,3 +1,10 @@
 1 - Criando o nosso player
 	1.1 - Importando a sprite do player - Feito
 	1.2 - Criando o objeto do player e dando a sprite dele. - Feito
+	
+	
+	
+	
+2 - Ajustando as dimensões da Room e ajustando a View e Viewport da Room
+	2.1 - Criando uma Viewport e camera para o jogo - Feito
+	2.2 - Ajustando as dimensões para a view ser grande e o viewport menor - Feito
