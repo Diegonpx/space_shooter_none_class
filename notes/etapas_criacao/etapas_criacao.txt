@@ -10,3 +10,12 @@
 2 - Ajustando as dimensões da Room e ajustando a View e Viewport da Room
 	2.1 - Criando uma Viewport e camera para o jogo - Feito
 	2.2 - Ajustando as dimensões para a view ser grande e o viewport menor - Feito
+	
+3 - Atirando
+	3.1 - Importando as sprites do tiro do player - Feito
+	3.2 - Criando o objeto do tiro do player - Feito
+	3.3 - Fazendo o tiro ir para cima - Feito
+	3.4 - Fazendo o jogador atirar ao apertar espaço - Feito
+	3.5 - Dando um efeito legal para o tiro
+		3.5.1 - Fazendo ele nascer grande e depois de um tempo ficar pequeno
+	
