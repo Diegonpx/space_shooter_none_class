@@ -16,6 +16,17 @@
 	3.2 - Criando o objeto do tiro do player - Feito
 	3.3 - Fazendo o tiro ir para cima - Feito
 	3.4 - Fazendo o jogador atirar ao apertar espaço - Feito
-	3.5 - Dando um efeito legal para o tiro
-		3.5.1 - Fazendo ele nascer grande e depois de um tempo ficar pequeno
+	3.5 - Dando um efeito legal para o tiro - Feito
+		3.5.1 - Fazendo ele nascer grande e depois de um tempo ficar pequeno - Feito
+	3.6 - Destruir o tiro quando ele sair da tela - Feito
+	
+4 - Criando o primeiro inimigo
+	4.1 - Importando as sprites - Feito
+	4.2 - Criando o objeto - Feito
+	4.3 - Fazendo ele ir para baixo - Feito
+	
+5 - Fazendo o inimigo Polvo atirar
+	5.1 - Importando a sprite do tiro
+	5.2 - Criar o objeto do tiro
+	5.3 - Fazendo o tiro ir para baixo
 	

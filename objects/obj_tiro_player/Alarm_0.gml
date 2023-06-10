@@ -1,10 +1,9 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-vspeed = -10;
+//Voltando ao tamanho original
+image_xscale = 1;
+image_yscale = 1;
 
-image_xscale = 2;
-image_yscale = 2;
 
-alarm[0] = 2;
 
