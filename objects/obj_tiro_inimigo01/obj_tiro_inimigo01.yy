@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_polvo",
+  "name": "obj_tiro_inimigo01",
   "spriteId": {
-    "name": "spr_polvo",
-    "path": "sprites/spr_polvo/spr_polvo.yy",
+    "name": "spr_tiro_inimigo01",
+    "path": "sprites/spr_tiro_inimigo01/spr_tiro_inimigo01.yy",
   },
   "solid": false,
   "visible": true,
@@ -26,11 +26,12 @@
   "physicsShapePoints": [],
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Inimigos",
+    "path": "folders/Objects/Inimigos.yy",
   },
 }

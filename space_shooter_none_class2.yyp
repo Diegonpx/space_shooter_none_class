@@ -4,12 +4,14 @@
   "name": "space_shooter_none_class2",
   "resources": [
     {"id":{"name":"obj_tiro_player","path":"objects/obj_tiro_player/obj_tiro_player.yy",},"order":1,},
+    {"id":{"name":"spr_tiro_inimigo01","path":"sprites/spr_tiro_inimigo01/spr_tiro_inimigo01.yy",},"order":1,},
     {"id":{"name":"etapas_criacao","path":"notes/etapas_criacao/etapas_criacao.yy",},"order":0,},
     {"id":{"name":"spr_tiro_player","path":"sprites/spr_tiro_player/spr_tiro_player.yy",},"order":1,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
-    {"id":{"name":"spr_polvo","path":"sprites/spr_polvo/spr_polvo.yy",},"order":2,},
+    {"id":{"name":"spr_inimigo01","path":"sprites/spr_inimigo01/spr_inimigo01.yy",},"order":0,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
-    {"id":{"name":"obj_polvo","path":"objects/obj_polvo/obj_polvo.yy",},"order":2,},
+    {"id":{"name":"obj_tiro_inimigo01","path":"objects/obj_tiro_inimigo01/obj_tiro_inimigo01.yy",},"order":1,},
+    {"id":{"name":"obj_inimigo01","path":"objects/obj_inimigo01/obj_inimigo01.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -47,6 +49,10 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy","order":1,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy","order":2,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy","order":8,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Player","folderPath":"folders/Objects/Player.yy","order":4,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Inimigos","folderPath":"folders/Objects/Inimigos.yy","order":5,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Player","folderPath":"folders/Sprites/Player.yy","order":4,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Inimigos","folderPath":"folders/Sprites/Inimigos.yy","order":5,},
   ],
   "AudioGroups": [
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},

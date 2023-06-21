@@ -26,7 +26,11 @@
 	4.3 - Fazendo ele ir para baixo - Feito
 	
 5 - Fazendo o inimigo Polvo atirar
-	5.1 - Importando a sprite do tiro
-	5.2 - Criar o objeto do tiro
-	5.3 - Fazendo o tiro ir para baixo
+	5.1 - Importando a sprite do tiro - Feito
+	5.2 - Criar o objeto do tiro - Feito
+	5.3 - Fazendo o tiro ir para baixo - Feito
+	5.4 - Atirando de fato - Feito
+	5.5 - Dando o efeito do tiro - Feito
+	
+(Criação de métodos)
 	

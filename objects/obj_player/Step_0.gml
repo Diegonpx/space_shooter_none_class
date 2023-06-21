@@ -11,6 +11,7 @@ fire = keyboard_check_pressed(vk_space);
 y += (down - up) * velocidade;
 x += (right - left) * velocidade;
 
+//Convertendo em um método
 if (fire)
 {
 	//Criando o objeto player
