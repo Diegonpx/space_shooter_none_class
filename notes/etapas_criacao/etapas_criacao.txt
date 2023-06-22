@@ -34,3 +34,8 @@
 	
 (Criação de métodos)
 	
+6 - Fazendo o tiro do player acertar o inimigo 
+	6.1 - Se destruir ao acertar o inimigo - Feito
+	6.2 - Criar o impacto do tiro do player
+	6.3 - Fazendo o impacto do tiro desaparecer mo final da animação
+	6.4 - Fazer o tiro NÃO criar o impacto quando ele sair da room
