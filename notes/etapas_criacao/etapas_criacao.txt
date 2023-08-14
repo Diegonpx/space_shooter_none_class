@@ -52,5 +52,8 @@
 		8.2.4 - Fazer a explosão se destruir no final da animação - Feito
 		
 9 - Pequenos ajustes parte 1
-	9.1 - Fazer o inimigo ser destruido ao sair da tela
+	9.1 - Fazer o inimigo ser destruido ao sair da tela - Feito
+	9.2 - Melhorando o background - Feito
+	9.3 - Deixando o nosso tiro mais bonito
 		
+10 - Criando o background do nosso jogo - Feito

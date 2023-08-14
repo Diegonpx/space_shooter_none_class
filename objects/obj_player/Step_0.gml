@@ -1,4 +1,4 @@
-/// @description Inserir descrição aqui
+/// @description Movimentação
 // Você pode escrever seu código neste editor
 
 var up, down, left, right;
