@@ -55,5 +55,13 @@
 	9.1 - Fazer o inimigo ser destruido ao sair da tela - Feito
 	9.2 - Melhorando o background - Feito
 	9.3 - Deixando o nosso tiro mais bonito
+		9.3.1 - Criar a sprite do brilho - Feito
+		9.3.2 - Criar o draw event - Feito
+		9.3.3 - Se desenhar - Feito
+		9.3.4 - Desenhar o brilho - Feito
+		9.3.5 - Alterar como a gpu processa a mistura de imagens - Feito
+		9.3.6 - Criar a variavel cores para ele mudar de cor - Feito
+		9.3.7 - Usar o lerp para diminuir o tamanho - Feito
+	9.4 - Deixando as explosões mais bonitas
 		
 10 - Criando o background do nosso jogo - Feito

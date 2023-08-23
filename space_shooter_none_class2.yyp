@@ -4,6 +4,7 @@
   "name": "space_shooter_none_class2",
   "resources": [
     {"id":{"name":"obj_explosao","path":"objects/obj_explosao/obj_explosao.yy",},"order":1,},
+    {"id":{"name":"spr_brilho_inimigo1","path":"sprites/spr_brilho_inimigo1/spr_brilho_inimigo1.yy",},"order":6,},
     {"id":{"name":"obj_tiro_player","path":"objects/obj_tiro_player/obj_tiro_player.yy",},"order":1,},
     {"id":{"name":"spr_impacto_tiro","path":"sprites/spr_impacto_tiro/spr_impacto_tiro.yy",},"order":0,},
     {"id":{"name":"spr_brilho_tiro1","path":"sprites/spr_brilho_tiro1/spr_brilho_tiro1.yy",},"order":5,},
